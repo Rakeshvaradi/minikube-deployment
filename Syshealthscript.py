@@ -1,5 +1,5 @@
 import psutil
-import logging
+
 
 CPU_thresholds = 80
 Memory_thresholds = 80
